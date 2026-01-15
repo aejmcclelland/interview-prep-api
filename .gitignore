@@ -1,0 +1,40 @@
+# Maven
+target/
+
+# Maven Wrapper (keep committed)
+# (mvnw, mvnw.cmd, .mvn/wrapper/* should be tracked)
+
+# OS / misc
+.DS_Store
+*.log
+
+# Env files
+.env
+.env.*
+!.env.example
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+
+### VS Code ###
+.vscode/
